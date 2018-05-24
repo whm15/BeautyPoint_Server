@@ -1,0 +1,15 @@
+{
+  "name": "wsbeautypoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "stubby": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "laudeni blue",
+  "license": "ISC"
+}

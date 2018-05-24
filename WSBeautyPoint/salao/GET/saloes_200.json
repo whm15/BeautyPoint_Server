@@ -1,0 +1,114 @@
+[
+  {
+    "nome": "Salão de Beleza Preserve-o",
+    "bairro": "Boa Viagem",
+    "logradouro": "Av cons. Aguiar 3105 loja 106 ",
+    "longitude": "-34.8946991",
+    "Telefone": " (81) 3243-4474",
+    "latitude": "-8.1164303",
+    "_id": 1,
+    "img_url": "https://lh4.googleusercontent.com/proxy/08K-wOaGQtR3aFDHGokyrU7xm_JOjph7PmIF1ha8PjxtuiX4_nBTjp-WHCxCWi36A5rHcIYoL4eeuqq1l4hAlFyIrMcHMkG-HKBO8Cn6OFrdG6AATapdN0lrt-W3sjEFpZbXZiJadePMp3dkfRm4O-WUtA_NOJU",
+    "descricao": "Salão de Beleza Preserve-o (Saúde/beleza) em Recife, PE. Nota 2,2 de 5 estrelas com base em 5 votos. Aberto quase todos os dias, frequentemente das 08:30 às 17:30 (fechado aos domingos). Dizem que o preço de Salão de Beleza Preserve-o é razoável."
+  },
+  {
+    "nome": "K2 Espaço de Beleza",
+    "bairro": "Boa Viagem",
+    "logradouro": "Rua Dom José Lopes, 696",
+    "longitude": "-34.903513",
+    "Telefone": "(81) 3204-7688",
+    "latitude": "-8.126569",
+    "_id": 2,
+    "img_url": "http://www.espacok2.com.br/images/gallery/s-17.jpg",
+    "descricao": "Realçar a beleza e revigorar a autoestima com máxima qualidade e excelência, através de uma equipe altamente qualificada e comprometida, zelando sempre pelo bem-estar e a saúde de nossos clientes e colaboradores."
+  },
+  {
+    "nome": "Unique Coiffeur",
+    "bairro": "Parnamirim",
+    "logradouro": "R. do Marques, 118",
+    "longitude": "-34.890229",
+    "Telefone": "(81) 3071-3677",
+    "latitude": "-8.104575",
+    "_id": 3,
+    "img_url": "http://i0.wp.com/unique-se.com.br/wp-content/uploads/2010/10/unique-5-1-e1448034334475.jpeg?resize=500%2C404",
+    "descricao": "Idealizamos o Unique Coiffeur com muito cuidado e carinho para oferecer o que há de melhor para Você."
+  },
+  {
+    "nome": "Japa Cabeleireiro - Salão adulto infantil",
+    "bairro": "Espinheiro",
+    "logradouro": "Rua Conselheiro Portela, 665 - 04",
+    "longitude": "-34890229",
+    "Telefone": " (81) 3241-8728",
+    "latitude": "-8104575",
+    "_id": 4,
+    "img_url": "https://scontent.cdninstagram.com/vp/bce42310e510b26713c1b69d8465a6d5/5BC1FF81/t51.2885-15/s640x640/sh0.08/e35/21224263_2404063996486340_3748310666088284160_n.jpg",
+    "descricao": "É um salão de beleza infantil de Recife para toda a família, atendendo também o público adulto  feminino e masculino"
+  },
+  {
+    "nome": "Fio-Fio Beauty Club",
+    "bairro": "Centro",
+    "logradouro": "Al. Augusto Stellfeld. 808",
+    "longitude": "-49.281739359772",
+    "Telefone": " (41) 3023-3101",
+    "latitude": "-25.430897012056",
+    "_id": 5,
+    "img_url": "https://scontent.frec6-1.fna.fbcdn.net/v/t1.0-9/13164259_622974524522442_5115297480135564928_n.jpg?_nc_cat=0&oh=4b738014dceeeb1c339a442ef77445d2&oe=5B79407C",
+    "descricao": "Um lugar para você descontrair, papear e sair lindx!"
+  },
+  {
+    "nome": "Espaço Homem Barber Shop",
+    "bairro": "Centro",
+    "logradouro": "Av. Getúlio Vargas. 440",
+    "longitude": "-28.674217",
+    "Telefone": " (48) 3433-0712",
+    "latitude": "-49.372116",
+    "_id": 6,
+    "img_url": "http://www.espacohomembarbershop.com.br/img/logo.png",
+    "descricao": "O Espaço Homem Barber Shop está dentro do atual conceito de barbearia. Com um ambiente sofisticado, é um exemplo de profissionalismo, de qualidade, de atendimento pessoal e de bem estar. O resultado aparece na satisfação dos nossos clientes, que saem renovados e de bem com a vida. "
+  },
+  {
+    "nome": "Barbearia Don Alberttoni",
+    "bairro": "São Francisco",
+    "logradouro": "Rua Jaime Reis. 28",
+    "longitude": "-49.274217",
+    "Telefone": " (41) 3049-0133",
+    "latitude": "-25.427016",
+    "_id": 7,
+    "img_url": "https://scontent.frec6-1.fna.fbcdn.net/v/t1.0-9/12249565_170467899969157_5789348995796018880_n.jpg?_nc_cat=0&oh=c89b70325dc986303c9f5c39583e9f4e&oe=5B930BD9",
+    "descricao": "Barbearia clássica, com atendimento personalizado. Corte de cabelo e barba com técnica e maestria."
+  },
+  {
+    "nome": "Barbearia Pontagrossense",
+    "bairro": "Nova Rússia",
+    "logradouro": "Rua Ernesto Vilela, 1144",
+    "longitude": "-50.175781",
+    "Telefone": "(42) 99918-0586",
+    "latitude": "-25.084758",
+    "_id": 8,
+    "img_url": "https://scontent.frec6-1.fna.fbcdn.net/v/t1.0-9/26166958_1775280522775699_4819649283574313256_n.jpg?_nc_cat=0&_nc_eui2=AeEN5NXTaG2_RdU_4WFiV0OMpfxbWJbByPtqsC959BzQB7sCLfWRJxWhgwkqiPDyv11vc_u6eKLhxTYh8XkSoEGmyVhuqMx7EIFCQ_CYbaq8tA&oh=1d02c6300e0a484f51118e14e26ee1dc&oe=5B7CABED",
+    "descricao": "Um novo conceito de barbearia, ambiente retrô, música de qualidade e cerveja gelada"
+  },
+  {
+    "nome": "Barbearia Lumberjack",
+    "bairro": "Centro",
+    "logradouro": "Rua Rui Barbosa. 247",
+    "longitude": "-51.347549",
+    "Telefone": "(54) 3401-3906",
+    "latitude": "-29.225614",
+    "_id": 9,
+    "img_url": "https://scontent.frec6-1.fna.fbcdn.net/v/t31.0-8/14753700_1792058634398529_4246618868845823858_o.jpg?_nc_cat=0&_nc_eui2=AeGRIJRNTIpBj4mQONstxb5BnUsOaBBUD-jwCtv9Z-myMi1T3bi7VcWBeKLSCWkdK6JYl_RBYo55BU5eWPLCpDrOKP7lqVzOQHmlbwVZ2h5_jw&oh=ef73311dee1780e8103288d1fbe94251&oe=5BC17D98",
+    "descricao": "Um novo espaço para Farroupilha,onde será encontrado um espaço rústico exclusivamente masculino!!!"
+  },
+  {
+    "nome": "São Chico",
+    "bairro": "Barreiros",
+    "logradouro": "Rua Hidalgo Araújo. 415",
+    "longitude": "-48.616925",
+    "Telefone": "(48) 3035-6001",
+    "latitude": "-27.565803",
+    "_id": 10,
+    "img_url": "https://scontent.frec6-1.fna.fbcdn.net/v/t1.0-9/28685587_2011568339091194_5746247226799253431_n.jpg?_nc_cat=0&_nc_eui2=AeHcQIsrwUKD2yo_HNV8zfSrA7zn4ZBG4MXf90HDfvx-rCR45ubd53pVOKKSwOw58pp6PQttVrJMF-Imca7qBFew_P9f04tuUAxRj9PdoiBd3w&oh=b8e86c76e68ffd63ac5060c40a12ba99&oe=5B8DBE56",
+    "descricao": "Ambiente aconchegante, profissionais capacitados e discretos, a São Chico Barbearia esta a cinco anos no mercado com duas unidades, Barreiros - São José e Centro - Florianópolis."
+  }
+  
+
+]

@@ -1,0 +1,42 @@
+[
+  
+  {
+    "request": {
+      "url": "^/saloes$",
+      "method": "GET"
+    },
+    "response": {
+    "latency": 2000,
+      "status": 200,      
+      "file": "salao/GET/saloes_200.json"
+    }
+  },
+
+  {
+    "request": {
+      "url": "^/saloes/([1-9][0-9]*)$",
+      "method": "GET"
+    },
+    "response": {
+    "latency": 2000,
+      "status": 200,      
+      "file": "salao/GET/salao_200.json"
+    }
+  },
+
+  {
+    "request": {
+      "url": "^/salao$",      
+      "file": "salao/POST/req_salao_200.json",
+      "method": "POST"
+    },
+    "response": {
+    "latency": 2000,
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "file": "salao/POST/resp_salao_200.json"
+    }
+  }
+]
